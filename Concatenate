@@ -1,0 +1,28 @@
+a=5
+print(a)
+b=5
+print(b)
+print(id(a))
+print(id(b))
+b=6
+print(id(b))
+k=5
+name='navin'
+name1='navin'
+print(name+name1)
+print(id(name))
+print(id(name1))
+name2 =""""
+This about Sumit
+Sumit is smart boy
+Sumit is tall boy
+"""
+name3=""""
+This about Sumit
+Sumit is smart boy
+Sumit is tall boy
+"""
+print(name2)
+print(name3)
+print(id(name2))
+print(id(name3))
